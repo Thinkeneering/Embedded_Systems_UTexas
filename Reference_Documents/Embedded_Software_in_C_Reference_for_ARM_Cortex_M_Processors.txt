@@ -1,3 +1,0 @@
-Dr. Valvano's website contains a lot of useful, easy-to-access information that will point you in the right direction when writing code for the Tiva-C Launchpad or any other development board that makes use of an ARM Cortex M processor.
-
-link: http://users.ece.utexas.edu/~valvano/embed/toc1.htm
